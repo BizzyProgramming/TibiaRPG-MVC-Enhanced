@@ -1,0 +1,1432 @@
+Aug 03, 2025 12:30:54 PM service.BattleManager startBattle
+INFO: Battle Start: Baitama vs Cachero
+Aug 03, 2025 12:30:54 PM service.BattleManager characterCombatLoop
+INFO: Turn 1 - Baitama's action
+Aug 03, 2025 12:30:54 PM service.BattleManager characterCombatLoop
+INFO: Turn 1 - Cachero's action
+Aug 03, 2025 12:30:54 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13512.87
+Cachero HP: 3452.37
+-------------------------------------------------
+Aug 03, 2025 12:30:54 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3452.37
+Baitama HP: 13512.87
+-------------------------------------------------
+Aug 03, 2025 12:30:56 PM service.BattleManager characterCombatLoop
+INFO: Turn 2 - Baitama's action
+Aug 03, 2025 12:30:56 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13512.87
+Cachero HP: 3415.58
+-------------------------------------------------
+Aug 03, 2025 12:30:56 PM service.BattleManager characterCombatLoop
+INFO: Turn 2 - Cachero's action
+Aug 03, 2025 12:30:56 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3415.58
+Baitama HP: 13463.91
+-------------------------------------------------
+Aug 03, 2025 12:30:58 PM service.BattleManager characterCombatLoop
+INFO: Turn 3 - Baitama's action
+Aug 03, 2025 12:30:58 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13463.91
+Cachero HP: 3391.01
+-------------------------------------------------
+Aug 03, 2025 12:30:58 PM service.BattleManager characterCombatLoop
+INFO: Turn 3 - Cachero's action
+Aug 03, 2025 12:30:58 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3391.01
+Baitama HP: 13403.93
+-------------------------------------------------
+Aug 03, 2025 12:31:00 PM service.BattleManager characterCombatLoop
+INFO: Turn 4 - Baitama's action
+Aug 03, 2025 12:31:00 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13403.93
+Cachero HP: 3346.43
+-------------------------------------------------
+Aug 03, 2025 12:31:00 PM service.BattleManager characterCombatLoop
+INFO: Turn 4 - Cachero's action
+Aug 03, 2025 12:31:00 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3346.43
+Baitama HP: 13362.27
+-------------------------------------------------
+Aug 03, 2025 12:31:02 PM service.BattleManager characterCombatLoop
+INFO: Turn 5 - Baitama's action
+Aug 03, 2025 12:31:02 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13375.31
+Cachero HP: 3323.69
+-------------------------------------------------
+Aug 03, 2025 12:31:02 PM service.BattleManager characterCombatLoop
+INFO: Turn 5 - Cachero's action
+Aug 03, 2025 12:31:02 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3331.99
+Baitama HP: 13324.88
+-------------------------------------------------
+Aug 03, 2025 12:31:04 PM service.BattleManager characterCombatLoop
+INFO: Turn 6 - Baitama's action
+Aug 03, 2025 12:31:04 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13324.88
+Cachero HP: 3292.15
+-------------------------------------------------
+Aug 03, 2025 12:31:04 PM service.BattleManager characterCombatLoop
+INFO: Turn 6 - Cachero's action
+Aug 03, 2025 12:31:04 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3292.15
+Baitama HP: 13265.03
+-------------------------------------------------
+Aug 03, 2025 12:31:06 PM service.BattleManager characterCombatLoop
+INFO: Turn 7 - Baitama's action
+Aug 03, 2025 12:31:06 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13265.03
+Cachero HP: 3270.49
+-------------------------------------------------
+Aug 03, 2025 12:31:06 PM service.BattleManager characterCombatLoop
+INFO: Turn 7 - Cachero's action
+Aug 03, 2025 12:31:06 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3270.49
+Baitama HP: 13211.05
+-------------------------------------------------
+Aug 03, 2025 12:31:08 PM service.BattleManager characterCombatLoop
+INFO: Turn 8 - Baitama's action
+Aug 03, 2025 12:31:08 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13211.05
+Cachero HP: 3231.95
+-------------------------------------------------
+Aug 03, 2025 12:31:08 PM service.BattleManager characterCombatLoop
+INFO: Turn 8 - Cachero's action
+Aug 03, 2025 12:31:08 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3231.95
+Baitama HP: 13153.07
+-------------------------------------------------
+Aug 03, 2025 12:31:10 PM service.BattleManager characterCombatLoop
+INFO: Turn 9 - Baitama's action
+Aug 03, 2025 12:31:10 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13153.07
+Cachero HP: 3209.68
+-------------------------------------------------
+Aug 03, 2025 12:31:10 PM service.BattleManager characterCombatLoop
+INFO: Turn 9 - Cachero's action
+Aug 03, 2025 12:31:10 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3209.68
+Baitama HP: 13102.69
+-------------------------------------------------
+Aug 03, 2025 12:31:12 PM service.BattleManager characterCombatLoop
+INFO: Turn 10 - Baitama's action
+Aug 03, 2025 12:31:12 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13115.24
+Cachero HP: 3164.70
+-------------------------------------------------
+Aug 03, 2025 12:31:12 PM service.BattleManager characterCombatLoop
+INFO: Turn 10 - Cachero's action
+Aug 03, 2025 12:31:12 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3178.30
+Baitama HP: 13058.63
+-------------------------------------------------
+Aug 03, 2025 12:31:14 PM service.BattleManager characterCombatLoop
+INFO: Turn 11 - Baitama's action
+Aug 03, 2025 12:31:14 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13058.63
+Cachero HP: 3157.87
+-------------------------------------------------
+Aug 03, 2025 12:31:14 PM service.BattleManager characterCombatLoop
+INFO: Turn 11 - Cachero's action
+Aug 03, 2025 12:31:14 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3157.87
+Baitama HP: 13009.00
+-------------------------------------------------
+Aug 03, 2025 12:31:16 PM service.BattleManager characterCombatLoop
+INFO: Turn 12 - Baitama's action
+Aug 03, 2025 12:31:16 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 13009.00
+Cachero HP: 3114.10
+-------------------------------------------------
+Aug 03, 2025 12:31:16 PM service.BattleManager characterCombatLoop
+INFO: Turn 12 - Cachero's action
+Aug 03, 2025 12:31:16 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3114.10
+Baitama HP: 12966.45
+-------------------------------------------------
+Aug 03, 2025 12:31:18 PM service.BattleManager characterCombatLoop
+INFO: Turn 13 - Baitama's action
+Aug 03, 2025 12:31:18 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12966.45
+Cachero HP: 3089.35
+-------------------------------------------------
+Aug 03, 2025 12:31:18 PM service.BattleManager characterCombatLoop
+INFO: Turn 13 - Cachero's action
+Aug 03, 2025 12:31:18 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3089.35
+Baitama HP: 12909.80
+-------------------------------------------------
+Aug 03, 2025 12:31:20 PM service.BattleManager characterCombatLoop
+INFO: Turn 14 - Baitama's action
+Aug 03, 2025 12:31:20 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12909.80
+Cachero HP: 3053.99
+-------------------------------------------------
+Aug 03, 2025 12:31:20 PM service.BattleManager characterCombatLoop
+INFO: Turn 14 - Cachero's action
+Aug 03, 2025 12:31:20 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3053.99
+Baitama HP: 12865.99
+-------------------------------------------------
+Aug 03, 2025 12:31:22 PM service.BattleManager characterCombatLoop
+INFO: Turn 15 - Baitama's action
+Aug 03, 2025 12:31:22 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12880.38
+Cachero HP: 3031.83
+-------------------------------------------------
+Aug 03, 2025 12:31:22 PM service.BattleManager characterCombatLoop
+INFO: Turn 15 - Cachero's action
+Aug 03, 2025 12:31:22 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3046.06
+Baitama HP: 12837.43
+-------------------------------------------------
+Aug 03, 2025 12:31:24 PM service.BattleManager characterCombatLoop
+INFO: Turn 16 - Baitama's action
+Aug 03, 2025 12:31:24 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12837.43
+Cachero HP: 3005.56
+-------------------------------------------------
+Aug 03, 2025 12:31:24 PM service.BattleManager characterCombatLoop
+INFO: Turn 16 - Cachero's action
+Aug 03, 2025 12:31:24 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 3005.56
+Baitama HP: 12795.02
+-------------------------------------------------
+Aug 03, 2025 12:31:26 PM service.BattleManager characterCombatLoop
+INFO: Turn 17 - Baitama's action
+Aug 03, 2025 12:31:26 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12795.02
+Cachero HP: 2983.36
+-------------------------------------------------
+Aug 03, 2025 12:31:26 PM service.BattleManager characterCombatLoop
+INFO: Turn 17 - Cachero's action
+Aug 03, 2025 12:31:26 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2983.36
+Baitama HP: 12735.30
+-------------------------------------------------
+Aug 03, 2025 12:31:28 PM service.BattleManager characterCombatLoop
+INFO: Turn 18 - Baitama's action
+Aug 03, 2025 12:31:28 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12735.30
+Cachero HP: 2948.07
+-------------------------------------------------
+Aug 03, 2025 12:31:28 PM service.BattleManager characterCombatLoop
+INFO: Turn 18 - Cachero's action
+Aug 03, 2025 12:31:28 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2948.07
+Baitama HP: 12690.59
+-------------------------------------------------
+Aug 03, 2025 12:31:30 PM service.BattleManager characterCombatLoop
+INFO: Turn 19 - Baitama's action
+Aug 03, 2025 12:31:30 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12690.59
+Cachero HP: 2924.49
+-------------------------------------------------
+Aug 03, 2025 12:31:30 PM service.BattleManager characterCombatLoop
+INFO: Turn 19 - Cachero's action
+Aug 03, 2025 12:31:30 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2924.49
+Baitama HP: 12632.96
+-------------------------------------------------
+Aug 03, 2025 12:31:32 PM service.BattleManager characterCombatLoop
+INFO: Turn 20 - Baitama's action
+Aug 03, 2025 12:31:32 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12647.65
+Cachero HP: 2887.30
+-------------------------------------------------
+Aug 03, 2025 12:31:32 PM service.BattleManager characterCombatLoop
+INFO: Turn 20 - Cachero's action
+Aug 03, 2025 12:31:32 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2899.08
+Baitama HP: 12591.04
+-------------------------------------------------
+Aug 03, 2025 12:31:34 PM service.BattleManager characterCombatLoop
+INFO: Turn 21 - Baitama's action
+Aug 03, 2025 12:31:34 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12591.04
+Cachero HP: 2875.30
+-------------------------------------------------
+Aug 03, 2025 12:31:34 PM service.BattleManager characterCombatLoop
+INFO: Turn 21 - Cachero's action
+Aug 03, 2025 12:31:34 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2875.30
+Baitama HP: 12532.64
+-------------------------------------------------
+Aug 03, 2025 12:31:36 PM service.BattleManager characterCombatLoop
+INFO: Turn 22 - Baitama's action
+Aug 03, 2025 12:31:36 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12532.64
+Cachero HP: 2831.71
+-------------------------------------------------
+Aug 03, 2025 12:31:36 PM service.BattleManager characterCombatLoop
+INFO: Turn 22 - Cachero's action
+Aug 03, 2025 12:31:36 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2831.71
+Baitama HP: 12474.21
+-------------------------------------------------
+Aug 03, 2025 12:31:38 PM service.BattleManager characterCombatLoop
+INFO: Turn 23 - Baitama's action
+Aug 03, 2025 12:31:38 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12474.21
+Cachero HP: 2809.70
+-------------------------------------------------
+Aug 03, 2025 12:31:38 PM service.BattleManager characterCombatLoop
+INFO: Turn 23 - Cachero's action
+Aug 03, 2025 12:31:38 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2809.70
+Baitama HP: 12418.88
+-------------------------------------------------
+Aug 03, 2025 12:31:40 PM service.BattleManager characterCombatLoop
+INFO: Turn 24 - Baitama's action
+Aug 03, 2025 12:31:40 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12418.88
+Cachero HP: 2769.85
+-------------------------------------------------
+Aug 03, 2025 12:31:40 PM service.BattleManager characterCombatLoop
+INFO: Turn 24 - Cachero's action
+Aug 03, 2025 12:31:40 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2769.85
+Baitama HP: 12362.80
+-------------------------------------------------
+Aug 03, 2025 12:31:42 PM service.BattleManager characterCombatLoop
+INFO: Turn 25 - Baitama's action
+Aug 03, 2025 12:31:42 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12373.36
+Cachero HP: 2745.78
+-------------------------------------------------
+Aug 03, 2025 12:31:42 PM service.BattleManager characterCombatLoop
+INFO: Turn 25 - Cachero's action
+Aug 03, 2025 12:31:42 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2755.84
+Baitama HP: 12313.98
+-------------------------------------------------
+Aug 03, 2025 12:31:44 PM service.BattleManager characterCombatLoop
+INFO: Turn 26 - Baitama's action
+Aug 03, 2025 12:31:44 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12313.98
+Cachero HP: 2713.63
+-------------------------------------------------
+Aug 03, 2025 12:31:44 PM service.BattleManager characterCombatLoop
+INFO: Turn 26 - Cachero's action
+Aug 03, 2025 12:31:44 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2713.63
+Baitama HP: 12270.20
+-------------------------------------------------
+Aug 03, 2025 12:31:46 PM service.BattleManager characterCombatLoop
+INFO: Turn 27 - Baitama's action
+Aug 03, 2025 12:31:46 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12270.20
+Cachero HP: 2689.89
+-------------------------------------------------
+Aug 03, 2025 12:31:46 PM service.BattleManager characterCombatLoop
+INFO: Turn 27 - Cachero's action
+Aug 03, 2025 12:31:46 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2689.89
+Baitama HP: 12212.61
+-------------------------------------------------
+Aug 03, 2025 12:31:48 PM service.BattleManager characterCombatLoop
+INFO: Turn 28 - Baitama's action
+Aug 03, 2025 12:31:48 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12212.61
+Cachero HP: 2647.07
+-------------------------------------------------
+Aug 03, 2025 12:31:48 PM service.BattleManager characterCombatLoop
+INFO: Turn 28 - Cachero's action
+Aug 03, 2025 12:31:48 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2647.07
+Baitama HP: 12166.68
+-------------------------------------------------
+Aug 03, 2025 12:31:50 PM service.BattleManager characterCombatLoop
+INFO: Turn 29 - Baitama's action
+Aug 03, 2025 12:31:50 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12166.68
+Cachero HP: 2626.35
+-------------------------------------------------
+Aug 03, 2025 12:31:50 PM service.BattleManager characterCombatLoop
+INFO: Turn 29 - Cachero's action
+Aug 03, 2025 12:31:50 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2626.35
+Baitama HP: 12119.05
+-------------------------------------------------
+Aug 03, 2025 12:31:52 PM service.BattleManager characterCombatLoop
+INFO: Turn 30 - Baitama's action
+Aug 03, 2025 12:31:52 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12132.39
+Cachero HP: 2583.69
+-------------------------------------------------
+Aug 03, 2025 12:31:52 PM service.BattleManager characterCombatLoop
+INFO: Turn 30 - Cachero's action
+Aug 03, 2025 12:31:52 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2597.03
+Baitama HP: 12075.09
+-------------------------------------------------
+Aug 03, 2025 12:31:54 PM service.BattleManager characterCombatLoop
+INFO: Turn 31 - Baitama's action
+Aug 03, 2025 12:31:54 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12075.09
+Cachero HP: 2576.93
+-------------------------------------------------
+Aug 03, 2025 12:31:54 PM service.BattleManager characterCombatLoop
+INFO: Turn 31 - Cachero's action
+Aug 03, 2025 12:31:54 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2576.93
+Baitama HP: 12022.12
+-------------------------------------------------
+Aug 03, 2025 12:31:56 PM service.BattleManager characterCombatLoop
+INFO: Turn 32 - Baitama's action
+Aug 03, 2025 12:31:56 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 12022.12
+Cachero HP: 2541.67
+-------------------------------------------------
+Aug 03, 2025 12:31:56 PM service.BattleManager characterCombatLoop
+INFO: Turn 32 - Cachero's action
+Aug 03, 2025 12:31:56 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2541.67
+Baitama HP: 11975.36
+-------------------------------------------------
+Aug 03, 2025 12:31:58 PM service.BattleManager characterCombatLoop
+INFO: Turn 33 - Baitama's action
+Aug 03, 2025 12:31:58 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11975.36
+Cachero HP: 2521.37
+-------------------------------------------------
+Aug 03, 2025 12:31:58 PM service.BattleManager characterCombatLoop
+INFO: Turn 33 - Cachero's action
+Aug 03, 2025 12:31:58 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2521.37
+Baitama HP: 11932.74
+-------------------------------------------------
+Aug 03, 2025 12:32:00 PM service.BattleManager characterCombatLoop
+INFO: Turn 34 - Baitama's action
+Aug 03, 2025 12:32:00 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11932.74
+Cachero HP: 2484.98
+-------------------------------------------------
+Aug 03, 2025 12:32:00 PM service.BattleManager characterCombatLoop
+INFO: Turn 34 - Cachero's action
+Aug 03, 2025 12:32:00 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2484.98
+Baitama HP: 11881.78
+-------------------------------------------------
+Aug 03, 2025 12:32:02 PM service.BattleManager characterCombatLoop
+INFO: Turn 35 - Baitama's action
+Aug 03, 2025 12:32:02 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11895.14
+Cachero HP: 2464.31
+-------------------------------------------------
+Aug 03, 2025 12:32:02 PM service.BattleManager characterCombatLoop
+INFO: Turn 35 - Cachero's action
+Aug 03, 2025 12:32:02 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2473.60
+Baitama HP: 11852.46
+-------------------------------------------------
+Aug 03, 2025 12:32:04 PM service.BattleManager characterCombatLoop
+INFO: Turn 36 - Baitama's action
+Aug 03, 2025 12:32:04 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11852.46
+Cachero HP: 2429.08
+-------------------------------------------------
+Aug 03, 2025 12:32:04 PM service.BattleManager characterCombatLoop
+INFO: Turn 36 - Cachero's action
+Aug 03, 2025 12:32:04 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2429.08
+Baitama HP: 11796.37
+-------------------------------------------------
+Aug 03, 2025 12:32:06 PM service.BattleManager characterCombatLoop
+INFO: Turn 37 - Baitama's action
+Aug 03, 2025 12:32:06 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11796.37
+Cachero HP: 2405.09
+-------------------------------------------------
+Aug 03, 2025 12:32:06 PM service.BattleManager characterCombatLoop
+INFO: Turn 37 - Cachero's action
+Aug 03, 2025 12:32:06 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2405.09
+Baitama HP: 11745.11
+-------------------------------------------------
+Aug 03, 2025 12:32:08 PM service.BattleManager characterCombatLoop
+INFO: Turn 38 - Baitama's action
+Aug 03, 2025 12:32:08 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11745.11
+Cachero HP: 2366.69
+-------------------------------------------------
+Aug 03, 2025 12:32:08 PM service.BattleManager characterCombatLoop
+INFO: Turn 38 - Cachero's action
+Aug 03, 2025 12:32:08 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2366.69
+Baitama HP: 11692.28
+-------------------------------------------------
+Aug 03, 2025 12:32:10 PM service.BattleManager characterCombatLoop
+INFO: Turn 39 - Baitama's action
+Aug 03, 2025 12:32:10 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11692.28
+Cachero HP: 2345.98
+-------------------------------------------------
+Aug 03, 2025 12:32:10 PM service.BattleManager characterCombatLoop
+INFO: Turn 39 - Cachero's action
+Aug 03, 2025 12:32:10 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2345.98
+Baitama HP: 11633.32
+-------------------------------------------------
+Aug 03, 2025 12:32:12 PM service.BattleManager characterCombatLoop
+INFO: Turn 40 - Baitama's action
+Aug 03, 2025 12:32:12 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11648.14
+Cachero HP: 2305.60
+-------------------------------------------------
+Aug 03, 2025 12:32:12 PM service.BattleManager characterCombatLoop
+INFO: Turn 40 - Cachero's action
+Aug 03, 2025 12:32:12 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2315.25
+Baitama HP: 11605.59
+-------------------------------------------------
+Aug 03, 2025 12:32:14 PM service.BattleManager characterCombatLoop
+INFO: Turn 41 - Baitama's action
+Aug 03, 2025 12:32:14 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11605.59
+Cachero HP: 2290.41
+-------------------------------------------------
+Aug 03, 2025 12:32:14 PM service.BattleManager characterCombatLoop
+INFO: Turn 41 - Cachero's action
+Aug 03, 2025 12:32:14 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2290.41
+Baitama HP: 11552.40
+-------------------------------------------------
+Aug 03, 2025 12:32:16 PM service.BattleManager characterCombatLoop
+INFO: Turn 42 - Baitama's action
+Aug 03, 2025 12:32:16 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11552.40
+Cachero HP: 2246.94
+-------------------------------------------------
+Aug 03, 2025 12:32:16 PM service.BattleManager characterCombatLoop
+INFO: Turn 42 - Cachero's action
+Aug 03, 2025 12:32:16 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2246.94
+Baitama HP: 11497.74
+-------------------------------------------------
+Aug 03, 2025 12:32:18 PM service.BattleManager characterCombatLoop
+INFO: Turn 43 - Baitama's action
+Aug 03, 2025 12:32:18 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11497.74
+Cachero HP: 2222.86
+-------------------------------------------------
+Aug 03, 2025 12:32:18 PM service.BattleManager characterCombatLoop
+INFO: Turn 43 - Cachero's action
+Aug 03, 2025 12:32:18 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2222.86
+Baitama HP: 11446.49
+-------------------------------------------------
+Aug 03, 2025 12:32:20 PM service.BattleManager characterCombatLoop
+INFO: Turn 44 - Baitama's action
+Aug 03, 2025 12:32:20 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11446.49
+Cachero HP: 2180.31
+-------------------------------------------------
+Aug 03, 2025 12:32:20 PM service.BattleManager characterCombatLoop
+INFO: Turn 44 - Cachero's action
+Aug 03, 2025 12:32:20 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2180.31
+Baitama HP: 11393.39
+-------------------------------------------------
+Aug 03, 2025 12:32:22 PM service.BattleManager characterCombatLoop
+INFO: Turn 45 - Baitama's action
+Aug 03, 2025 12:32:22 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11405.43
+Cachero HP: 2158.09
+-------------------------------------------------
+Aug 03, 2025 12:32:22 PM service.BattleManager characterCombatLoop
+INFO: Turn 45 - Cachero's action
+Aug 03, 2025 12:32:22 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2172.02
+Baitama HP: 11349.88
+-------------------------------------------------
+Aug 03, 2025 12:32:24 PM service.BattleManager characterCombatLoop
+INFO: Turn 46 - Baitama's action
+Aug 03, 2025 12:32:24 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11349.88
+Cachero HP: 2130.17
+-------------------------------------------------
+Aug 03, 2025 12:32:24 PM service.BattleManager characterCombatLoop
+INFO: Turn 46 - Cachero's action
+Aug 03, 2025 12:32:24 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2130.17
+Baitama HP: 11291.06
+-------------------------------------------------
+Aug 03, 2025 12:32:26 PM service.BattleManager characterCombatLoop
+INFO: Turn 47 - Baitama's action
+Aug 03, 2025 12:32:26 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11291.06
+Cachero HP: 2109.42
+-------------------------------------------------
+Aug 03, 2025 12:32:26 PM service.BattleManager characterCombatLoop
+INFO: Turn 47 - Cachero's action
+Aug 03, 2025 12:32:26 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2109.42
+Baitama HP: 11249.06
+-------------------------------------------------
+Aug 03, 2025 12:32:28 PM service.BattleManager characterCombatLoop
+INFO: Turn 48 - Baitama's action
+Aug 03, 2025 12:32:28 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11249.06
+Cachero HP: 2069.89
+-------------------------------------------------
+Aug 03, 2025 12:32:28 PM service.BattleManager characterCombatLoop
+INFO: Turn 48 - Cachero's action
+Aug 03, 2025 12:32:28 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2069.89
+Baitama HP: 11190.96
+-------------------------------------------------
+Aug 03, 2025 12:32:30 PM service.BattleManager characterCombatLoop
+INFO: Turn 49 - Baitama's action
+Aug 03, 2025 12:32:30 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11190.96
+Cachero HP: 2046.45
+-------------------------------------------------
+Aug 03, 2025 12:32:30 PM service.BattleManager characterCombatLoop
+INFO: Turn 49 - Cachero's action
+Aug 03, 2025 12:32:30 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2046.45
+Baitama HP: 11143.82
+-------------------------------------------------
+Aug 03, 2025 12:32:32 PM service.BattleManager characterCombatLoop
+INFO: Turn 50 - Baitama's action
+Aug 03, 2025 12:32:32 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11153.91
+Cachero HP: 2006.47
+-------------------------------------------------
+Aug 03, 2025 12:32:32 PM service.BattleManager characterCombatLoop
+INFO: Turn 50 - Cachero's action
+Aug 03, 2025 12:32:32 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 2014.74
+Baitama HP: 11099.52
+-------------------------------------------------
+Aug 03, 2025 12:32:34 PM service.BattleManager characterCombatLoop
+INFO: Turn 51 - Baitama's action
+Aug 03, 2025 12:32:34 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11099.52
+Cachero HP: 1993.75
+-------------------------------------------------
+Aug 03, 2025 12:32:34 PM service.BattleManager characterCombatLoop
+INFO: Turn 51 - Cachero's action
+Aug 03, 2025 12:32:34 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1993.75
+Baitama HP: 11043.04
+-------------------------------------------------
+Aug 03, 2025 12:32:36 PM service.BattleManager characterCombatLoop
+INFO: Turn 52 - Baitama's action
+Aug 03, 2025 12:32:36 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 11043.04
+Cachero HP: 1954.88
+-------------------------------------------------
+Aug 03, 2025 12:32:36 PM service.BattleManager characterCombatLoop
+INFO: Turn 52 - Cachero's action
+Aug 03, 2025 12:32:36 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1954.88
+Baitama HP: 10988.66
+-------------------------------------------------
+Aug 03, 2025 12:32:38 PM service.BattleManager characterCombatLoop
+INFO: Turn 53 - Baitama's action
+Aug 03, 2025 12:32:38 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10988.66
+Cachero HP: 1933.44
+-------------------------------------------------
+Aug 03, 2025 12:32:38 PM service.BattleManager characterCombatLoop
+INFO: Turn 53 - Cachero's action
+Aug 03, 2025 12:32:38 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1933.44
+Baitama HP: 10934.68
+-------------------------------------------------
+Aug 03, 2025 12:32:40 PM service.BattleManager characterCombatLoop
+INFO: Turn 54 - Baitama's action
+Aug 03, 2025 12:32:40 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10934.68
+Cachero HP: 1897.86
+-------------------------------------------------
+Aug 03, 2025 12:32:40 PM service.BattleManager characterCombatLoop
+INFO: Turn 54 - Cachero's action
+Aug 03, 2025 12:32:40 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1897.86
+Baitama HP: 10887.64
+-------------------------------------------------
+Aug 03, 2025 12:32:42 PM service.BattleManager characterCombatLoop
+INFO: Turn 55 - Baitama's action
+Aug 03, 2025 12:32:42 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10898.69
+Cachero HP: 1873.47
+-------------------------------------------------
+Aug 03, 2025 12:32:42 PM service.BattleManager characterCombatLoop
+INFO: Turn 55 - Cachero's action
+Aug 03, 2025 12:32:42 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1883.87
+Baitama HP: 10845.78
+-------------------------------------------------
+Aug 03, 2025 12:32:44 PM service.BattleManager characterCombatLoop
+INFO: Turn 56 - Baitama's action
+Aug 03, 2025 12:32:44 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10845.78
+Cachero HP: 1840.15
+-------------------------------------------------
+Aug 03, 2025 12:32:44 PM service.BattleManager characterCombatLoop
+INFO: Turn 56 - Cachero's action
+Aug 03, 2025 12:32:44 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1840.15
+Baitama HP: 10797.62
+-------------------------------------------------
+Aug 03, 2025 12:32:46 PM service.BattleManager characterCombatLoop
+INFO: Turn 57 - Baitama's action
+Aug 03, 2025 12:32:46 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10797.62
+Cachero HP: 1818.90
+-------------------------------------------------
+Aug 03, 2025 12:32:46 PM service.BattleManager characterCombatLoop
+INFO: Turn 57 - Cachero's action
+Aug 03, 2025 12:32:46 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1818.90
+Baitama HP: 10742.16
+-------------------------------------------------
+Aug 03, 2025 12:32:48 PM service.BattleManager characterCombatLoop
+INFO: Turn 58 - Baitama's action
+Aug 03, 2025 12:32:48 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10742.16
+Cachero HP: 1775.83
+-------------------------------------------------
+Aug 03, 2025 12:32:48 PM service.BattleManager characterCombatLoop
+INFO: Turn 58 - Cachero's action
+Aug 03, 2025 12:32:48 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1775.83
+Baitama HP: 10689.25
+-------------------------------------------------
+Aug 03, 2025 12:32:50 PM service.BattleManager characterCombatLoop
+INFO: Turn 59 - Baitama's action
+Aug 03, 2025 12:32:50 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10689.25
+Cachero HP: 1755.12
+-------------------------------------------------
+Aug 03, 2025 12:32:51 PM service.BattleManager characterCombatLoop
+INFO: Turn 59 - Cachero's action
+Aug 03, 2025 12:32:51 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1755.12
+Baitama HP: 10644.63
+-------------------------------------------------
+Aug 03, 2025 12:32:53 PM service.BattleManager characterCombatLoop
+INFO: Turn 60 - Baitama's action
+Aug 03, 2025 12:32:53 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10659.47
+Cachero HP: 1715.85
+-------------------------------------------------
+Aug 03, 2025 12:32:53 PM service.BattleManager characterCombatLoop
+INFO: Turn 60 - Cachero's action
+Aug 03, 2025 12:32:53 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1729.59
+Baitama HP: 10614.01
+-------------------------------------------------
+Aug 03, 2025 12:32:55 PM service.BattleManager characterCombatLoop
+INFO: Turn 61 - Baitama's action
+Aug 03, 2025 12:32:55 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10614.01
+Cachero HP: 1705.14
+-------------------------------------------------
+Aug 03, 2025 12:32:55 PM service.BattleManager characterCombatLoop
+INFO: Turn 61 - Cachero's action
+Aug 03, 2025 12:32:55 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1705.14
+Baitama HP: 10570.34
+-------------------------------------------------
+Aug 03, 2025 12:32:57 PM service.BattleManager characterCombatLoop
+INFO: Turn 62 - Baitama's action
+Aug 03, 2025 12:32:57 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10570.34
+Cachero HP: 1663.39
+-------------------------------------------------
+Aug 03, 2025 12:32:57 PM service.BattleManager characterCombatLoop
+INFO: Turn 62 - Cachero's action
+Aug 03, 2025 12:32:57 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1663.39
+Baitama HP: 10528.94
+-------------------------------------------------
+Aug 03, 2025 12:32:59 PM service.BattleManager characterCombatLoop
+INFO: Turn 63 - Baitama's action
+Aug 03, 2025 12:32:59 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10528.94
+Cachero HP: 1641.95
+-------------------------------------------------
+Aug 03, 2025 12:32:59 PM service.BattleManager characterCombatLoop
+INFO: Turn 63 - Cachero's action
+Aug 03, 2025 12:32:59 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1641.95
+Baitama HP: 10484.23
+-------------------------------------------------
+Aug 03, 2025 12:33:01 PM service.BattleManager characterCombatLoop
+INFO: Turn 64 - Baitama's action
+Aug 03, 2025 12:33:01 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10484.23
+Cachero HP: 1598.21
+-------------------------------------------------
+Aug 03, 2025 12:33:01 PM service.BattleManager characterCombatLoop
+INFO: Turn 64 - Cachero's action
+Aug 03, 2025 12:33:01 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1598.21
+Baitama HP: 10430.14
+-------------------------------------------------
+Aug 03, 2025 12:33:03 PM service.BattleManager characterCombatLoop
+INFO: Turn 65 - Baitama's action
+Aug 03, 2025 12:33:03 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10443.25
+Cachero HP: 1576.86
+-------------------------------------------------
+Aug 03, 2025 12:33:03 PM service.BattleManager characterCombatLoop
+INFO: Turn 65 - Cachero's action
+Aug 03, 2025 12:33:03 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1587.67
+Baitama HP: 10401.12
+-------------------------------------------------
+Aug 03, 2025 12:33:05 PM service.BattleManager characterCombatLoop
+INFO: Turn 66 - Cachero's action
+Aug 03, 2025 12:33:05 PM service.BattleManager characterCombatLoop
+INFO: Turn 66 - Baitama's action
+Aug 03, 2025 12:33:05 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1550.55
+Baitama HP: 10360.78
+-------------------------------------------------
+Aug 03, 2025 12:33:05 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10360.78
+Cachero HP: 1550.55
+-------------------------------------------------
+Aug 03, 2025 12:33:07 PM service.BattleManager characterCombatLoop
+INFO: Turn 67 - Cachero's action
+Aug 03, 2025 12:33:07 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1550.55
+Baitama HP: 10310.27
+-------------------------------------------------
+Aug 03, 2025 12:33:07 PM service.BattleManager characterCombatLoop
+INFO: Turn 67 - Baitama's action
+Aug 03, 2025 12:33:07 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10310.27
+Cachero HP: 1525.64
+-------------------------------------------------
+Aug 03, 2025 12:33:09 PM service.BattleManager characterCombatLoop
+INFO: Turn 68 - Cachero's action
+Aug 03, 2025 12:33:09 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1525.64
+Baitama HP: 10262.72
+-------------------------------------------------
+Aug 03, 2025 12:33:09 PM service.BattleManager characterCombatLoop
+INFO: Turn 68 - Baitama's action
+Aug 03, 2025 12:33:09 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10262.72
+Cachero HP: 1481.31
+-------------------------------------------------
+Aug 03, 2025 12:33:11 PM service.BattleManager characterCombatLoop
+INFO: Turn 69 - Cachero's action
+Aug 03, 2025 12:33:11 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1481.31
+Baitama HP: 10207.21
+-------------------------------------------------
+Aug 03, 2025 12:33:11 PM service.BattleManager characterCombatLoop
+INFO: Turn 69 - Baitama's action
+Aug 03, 2025 12:33:11 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10207.21
+Cachero HP: 1457.60
+-------------------------------------------------
+Aug 03, 2025 12:33:13 PM service.BattleManager characterCombatLoop
+INFO: Turn 70 - Cachero's action
+Aug 03, 2025 12:33:13 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1469.47
+Baitama HP: 10166.42
+-------------------------------------------------
+Aug 03, 2025 12:33:13 PM service.BattleManager characterCombatLoop
+INFO: Turn 70 - Baitama's action
+Aug 03, 2025 12:33:13 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10181.09
+Cachero HP: 1431.67
+-------------------------------------------------
+Aug 03, 2025 12:33:15 PM service.BattleManager characterCombatLoop
+INFO: Turn 71 - Cachero's action
+Aug 03, 2025 12:33:15 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1431.67
+Baitama HP: 10125.56
+-------------------------------------------------
+Aug 03, 2025 12:33:15 PM service.BattleManager characterCombatLoop
+INFO: Turn 71 - Baitama's action
+Aug 03, 2025 12:33:15 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10125.56
+Cachero HP: 1407.18
+-------------------------------------------------
+Aug 03, 2025 12:33:17 PM service.BattleManager characterCombatLoop
+INFO: Turn 72 - Cachero's action
+Aug 03, 2025 12:33:17 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1407.18
+Baitama HP: 10078.82
+-------------------------------------------------
+Aug 03, 2025 12:33:17 PM service.BattleManager characterCombatLoop
+INFO: Turn 72 - Baitama's action
+Aug 03, 2025 12:33:17 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10078.82
+Cachero HP: 1364.07
+-------------------------------------------------
+Aug 03, 2025 12:33:19 PM service.BattleManager characterCombatLoop
+INFO: Turn 73 - Cachero's action
+Aug 03, 2025 12:33:19 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1364.07
+Baitama HP: 10031.81
+-------------------------------------------------
+Aug 03, 2025 12:33:19 PM service.BattleManager characterCombatLoop
+INFO: Turn 73 - Baitama's action
+Aug 03, 2025 12:33:19 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 10031.81
+Cachero HP: 1340.70
+-------------------------------------------------
+Aug 03, 2025 12:33:21 PM service.BattleManager characterCombatLoop
+INFO: Turn 74 - Cachero's action
+Aug 03, 2025 12:33:21 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1340.70
+Baitama HP: 9978.76
+-------------------------------------------------
+Aug 03, 2025 12:33:21 PM service.BattleManager characterCombatLoop
+INFO: Turn 74 - Baitama's action
+Aug 03, 2025 12:33:21 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9978.76
+Cachero HP: 1296.01
+-------------------------------------------------
+Aug 03, 2025 12:33:23 PM service.BattleManager characterCombatLoop
+INFO: Turn 75 - Cachero's action
+Aug 03, 2025 12:33:23 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1306.06
+Baitama HP: 9929.78
+-------------------------------------------------
+Aug 03, 2025 12:33:23 PM service.BattleManager characterCombatLoop
+INFO: Turn 75 - Baitama's action
+Aug 03, 2025 12:33:23 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9940.81
+Cachero HP: 1284.77
+-------------------------------------------------
+Aug 03, 2025 12:33:25 PM service.BattleManager characterCombatLoop
+INFO: Turn 76 - Cachero's action
+Aug 03, 2025 12:33:25 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1284.77
+Baitama HP: 9898.62
+-------------------------------------------------
+Aug 03, 2025 12:33:25 PM service.BattleManager characterCombatLoop
+INFO: Turn 76 - Baitama's action
+Aug 03, 2025 12:33:25 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9898.62
+Cachero HP: 1240.77
+-------------------------------------------------
+Aug 03, 2025 12:33:27 PM service.BattleManager characterCombatLoop
+INFO: Turn 77 - Cachero's action
+Aug 03, 2025 12:33:27 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1240.77
+Baitama HP: 9841.67
+-------------------------------------------------
+Aug 03, 2025 12:33:27 PM service.BattleManager characterCombatLoop
+INFO: Turn 77 - Baitama's action
+Aug 03, 2025 12:33:27 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9841.67
+Cachero HP: 1218.31
+-------------------------------------------------
+Aug 03, 2025 12:33:29 PM service.BattleManager characterCombatLoop
+INFO: Turn 78 - Cachero's action
+Aug 03, 2025 12:33:29 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1218.31
+Baitama HP: 9792.70
+-------------------------------------------------
+Aug 03, 2025 12:33:29 PM service.BattleManager characterCombatLoop
+INFO: Turn 78 - Baitama's action
+Aug 03, 2025 12:33:29 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9792.70
+Cachero HP: 1181.54
+-------------------------------------------------
+Aug 03, 2025 12:33:31 PM service.BattleManager characterCombatLoop
+INFO: Turn 79 - Cachero's action
+Aug 03, 2025 12:33:31 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1181.54
+Baitama HP: 9743.86
+-------------------------------------------------
+Aug 03, 2025 12:33:31 PM service.BattleManager characterCombatLoop
+INFO: Turn 79 - Baitama's action
+Aug 03, 2025 12:33:31 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9743.86
+Cachero HP: 1160.64
+-------------------------------------------------
+Aug 03, 2025 12:33:33 PM service.BattleManager characterCombatLoop
+INFO: Turn 80 - Cachero's action
+Aug 03, 2025 12:33:33 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1170.96
+Baitama HP: 9700.97
+-------------------------------------------------
+Aug 03, 2025 12:33:33 PM service.BattleManager characterCombatLoop
+INFO: Turn 80 - Baitama's action
+Aug 03, 2025 12:33:33 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9711.24
+Cachero HP: 1126.36
+-------------------------------------------------
+Aug 03, 2025 12:33:35 PM service.BattleManager characterCombatLoop
+INFO: Turn 81 - Cachero's action
+Aug 03, 2025 12:33:35 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1126.36
+Baitama HP: 9669.79
+-------------------------------------------------
+Aug 03, 2025 12:33:35 PM service.BattleManager characterCombatLoop
+INFO: Turn 81 - Baitama's action
+Aug 03, 2025 12:33:35 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9669.79
+Cachero HP: 1105.95
+-------------------------------------------------
+Aug 03, 2025 12:33:37 PM service.BattleManager characterCombatLoop
+INFO: Turn 82 - Cachero's action
+Aug 03, 2025 12:33:37 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1105.95
+Baitama HP: 9615.73
+-------------------------------------------------
+Aug 03, 2025 12:33:37 PM service.BattleManager characterCombatLoop
+INFO: Turn 82 - Baitama's action
+Aug 03, 2025 12:33:37 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9615.73
+Cachero HP: 1067.03
+-------------------------------------------------
+Aug 03, 2025 12:33:39 PM service.BattleManager characterCombatLoop
+INFO: Turn 83 - Cachero's action
+Aug 03, 2025 12:33:39 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1067.03
+Baitama HP: 9562.81
+-------------------------------------------------
+Aug 03, 2025 12:33:39 PM service.BattleManager characterCombatLoop
+INFO: Turn 83 - Baitama's action
+Aug 03, 2025 12:33:39 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9562.81
+Cachero HP: 1045.04
+-------------------------------------------------
+Aug 03, 2025 12:33:41 PM service.BattleManager characterCombatLoop
+INFO: Turn 84 - Cachero's action
+Aug 03, 2025 12:33:41 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1045.04
+Baitama HP: 9503.35
+-------------------------------------------------
+Aug 03, 2025 12:33:41 PM service.BattleManager characterCombatLoop
+INFO: Turn 84 - Baitama's action
+Aug 03, 2025 12:33:41 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9503.35
+Cachero HP: 1002.62
+-------------------------------------------------
+Aug 03, 2025 12:33:43 PM service.BattleManager characterCombatLoop
+INFO: Turn 85 - Cachero's action
+Aug 03, 2025 12:33:43 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 1012.07
+Baitama HP: 9444.01
+-------------------------------------------------
+Aug 03, 2025 12:33:43 PM service.BattleManager characterCombatLoop
+INFO: Turn 85 - Baitama's action
+Aug 03, 2025 12:33:43 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9457.83
+Cachero HP: 991.73
+-------------------------------------------------
+Aug 03, 2025 12:33:45 PM service.BattleManager characterCombatLoop
+INFO: Turn 86 - Cachero's action
+Aug 03, 2025 12:33:45 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 991.73
+Baitama HP: 9405.94
+-------------------------------------------------
+Aug 03, 2025 12:33:45 PM service.BattleManager characterCombatLoop
+INFO: Turn 86 - Baitama's action
+Aug 03, 2025 12:33:45 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9405.94
+Cachero HP: 954.14
+-------------------------------------------------
+Aug 03, 2025 12:33:47 PM service.BattleManager characterCombatLoop
+INFO: Turn 87 - Cachero's action
+Aug 03, 2025 12:33:47 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 954.14
+Baitama HP: 9352.80
+-------------------------------------------------
+Aug 03, 2025 12:33:47 PM service.BattleManager characterCombatLoop
+INFO: Turn 87 - Baitama's action
+Aug 03, 2025 12:33:47 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9352.80
+Cachero HP: 933.68
+-------------------------------------------------
+Aug 03, 2025 12:33:49 PM service.BattleManager characterCombatLoop
+INFO: Turn 88 - Cachero's action
+Aug 03, 2025 12:33:49 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 933.68
+Baitama HP: 9296.29
+-------------------------------------------------
+Aug 03, 2025 12:33:49 PM service.BattleManager characterCombatLoop
+INFO: Turn 88 - Baitama's action
+Aug 03, 2025 12:33:49 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9296.29
+Cachero HP: 889.68
+-------------------------------------------------
+Aug 03, 2025 12:33:51 PM service.BattleManager characterCombatLoop
+INFO: Turn 89 - Cachero's action
+Aug 03, 2025 12:33:51 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 889.68
+Baitama HP: 9254.00
+-------------------------------------------------
+Aug 03, 2025 12:33:51 PM service.BattleManager characterCombatLoop
+INFO: Turn 89 - Baitama's action
+Aug 03, 2025 12:33:51 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9254.00
+Cachero HP: 865.58
+-------------------------------------------------
+Aug 03, 2025 12:33:53 PM service.BattleManager characterCombatLoop
+INFO: Turn 90 - Cachero's action
+Aug 03, 2025 12:33:53 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 877.17
+Baitama HP: 9199.88
+-------------------------------------------------
+Aug 03, 2025 12:33:53 PM service.BattleManager characterCombatLoop
+INFO: Turn 90 - Baitama's action
+Aug 03, 2025 12:33:53 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9209.90
+Cachero HP: 834.89
+-------------------------------------------------
+Aug 03, 2025 12:33:55 PM service.BattleManager characterCombatLoop
+INFO: Turn 91 - Cachero's action
+Aug 03, 2025 12:33:55 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 834.89
+Baitama HP: 9158.22
+-------------------------------------------------
+Aug 03, 2025 12:33:55 PM service.BattleManager characterCombatLoop
+INFO: Turn 91 - Baitama's action
+Aug 03, 2025 12:33:55 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9158.22
+Cachero HP: 814.80
+-------------------------------------------------
+Aug 03, 2025 12:33:57 PM service.BattleManager characterCombatLoop
+INFO: Turn 92 - Cachero's action
+Aug 03, 2025 12:33:57 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 814.80
+Baitama HP: 9101.45
+-------------------------------------------------
+Aug 03, 2025 12:33:57 PM service.BattleManager characterCombatLoop
+INFO: Turn 92 - Baitama's action
+Aug 03, 2025 12:33:57 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9101.45
+Cachero HP: 778.51
+-------------------------------------------------
+Aug 03, 2025 12:33:59 PM service.BattleManager characterCombatLoop
+INFO: Turn 93 - Cachero's action
+Aug 03, 2025 12:33:59 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 778.51
+Baitama HP: 9042.93
+-------------------------------------------------
+Aug 03, 2025 12:33:59 PM service.BattleManager characterCombatLoop
+INFO: Turn 93 - Baitama's action
+Aug 03, 2025 12:33:59 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 9042.93
+Cachero HP: 753.98
+-------------------------------------------------
+Aug 03, 2025 12:34:01 PM service.BattleManager characterCombatLoop
+INFO: Turn 94 - Cachero's action
+Aug 03, 2025 12:34:01 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 753.98
+Baitama HP: 8985.97
+-------------------------------------------------
+Aug 03, 2025 12:34:01 PM service.BattleManager characterCombatLoop
+INFO: Turn 94 - Baitama's action
+Aug 03, 2025 12:34:01 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8985.97
+Cachero HP: 714.50
+-------------------------------------------------
+Aug 03, 2025 12:34:03 PM service.BattleManager characterCombatLoop
+INFO: Turn 95 - Cachero's action
+Aug 03, 2025 12:34:03 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 729.23
+Baitama HP: 8940.29
+-------------------------------------------------
+Aug 03, 2025 12:34:03 PM service.BattleManager characterCombatLoop
+INFO: Turn 95 - Baitama's action
+Aug 03, 2025 12:34:03 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8953.98
+Cachero HP: 705.45
+-------------------------------------------------
+Aug 03, 2025 12:34:05 PM service.BattleManager characterCombatLoop
+INFO: Turn 96 - Cachero's action
+Aug 03, 2025 12:34:05 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 705.45
+Baitama HP: 8898.87
+-------------------------------------------------
+Aug 03, 2025 12:34:05 PM service.BattleManager characterCombatLoop
+INFO: Turn 96 - Baitama's action
+Aug 03, 2025 12:34:05 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8898.87
+Cachero HP: 660.76
+-------------------------------------------------
+Aug 03, 2025 12:34:07 PM service.BattleManager characterCombatLoop
+INFO: Turn 97 - Cachero's action
+Aug 03, 2025 12:34:07 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 660.76
+Baitama HP: 8852.40
+-------------------------------------------------
+Aug 03, 2025 12:34:07 PM service.BattleManager characterCombatLoop
+INFO: Turn 97 - Baitama's action
+Aug 03, 2025 12:34:07 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8852.40
+Cachero HP: 636.21
+-------------------------------------------------
+Aug 03, 2025 12:34:09 PM service.BattleManager characterCombatLoop
+INFO: Turn 98 - Cachero's action
+Aug 03, 2025 12:34:09 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 636.21
+Baitama HP: 8812.29
+-------------------------------------------------
+Aug 03, 2025 12:34:09 PM service.BattleManager characterCombatLoop
+INFO: Turn 98 - Baitama's action
+Aug 03, 2025 12:34:09 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8812.29
+Cachero HP: 596.57
+-------------------------------------------------
+Aug 03, 2025 12:34:11 PM service.BattleManager characterCombatLoop
+INFO: Turn 99 - Cachero's action
+Aug 03, 2025 12:34:11 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 596.57
+Baitama HP: 8767.77
+-------------------------------------------------
+Aug 03, 2025 12:34:11 PM service.BattleManager characterCombatLoop
+INFO: Turn 99 - Baitama's action
+Aug 03, 2025 12:34:11 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8767.77
+Cachero HP: 572.86
+-------------------------------------------------
+Aug 03, 2025 12:34:13 PM service.BattleManager characterCombatLoop
+INFO: Turn 100 - Cachero's action
+Aug 03, 2025 12:34:13 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 586.35
+Baitama HP: 8708.63
+-------------------------------------------------
+Aug 03, 2025 12:34:13 PM service.BattleManager characterCombatLoop
+INFO: Turn 100 - Baitama's action
+Aug 03, 2025 12:34:13 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8723.13
+Cachero HP: 545.33
+-------------------------------------------------
+Aug 03, 2025 12:34:15 PM service.BattleManager characterCombatLoop
+INFO: Turn 101 - Cachero's action
+Aug 03, 2025 12:34:15 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 545.33
+Baitama HP: 8672.50
+-------------------------------------------------
+Aug 03, 2025 12:34:15 PM service.BattleManager characterCombatLoop
+INFO: Turn 101 - Baitama's action
+Aug 03, 2025 12:34:15 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8672.50
+Cachero HP: 523.05
+-------------------------------------------------
+Aug 03, 2025 12:34:17 PM service.BattleManager characterCombatLoop
+INFO: Turn 102 - Cachero's action
+Aug 03, 2025 12:34:17 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 523.05
+Baitama HP: 8628.61
+-------------------------------------------------
+Aug 03, 2025 12:34:17 PM service.BattleManager characterCombatLoop
+INFO: Turn 102 - Baitama's action
+Aug 03, 2025 12:34:17 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8628.61
+Cachero HP: 484.84
+-------------------------------------------------
+Aug 03, 2025 12:34:19 PM service.BattleManager characterCombatLoop
+INFO: Turn 103 - Cachero's action
+Aug 03, 2025 12:34:19 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 484.84
+Baitama HP: 8580.40
+-------------------------------------------------
+Aug 03, 2025 12:34:19 PM service.BattleManager characterCombatLoop
+INFO: Turn 103 - Baitama's action
+Aug 03, 2025 12:34:19 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8580.40
+Cachero HP: 463.22
+-------------------------------------------------
+Aug 03, 2025 12:34:21 PM service.BattleManager characterCombatLoop
+INFO: Turn 104 - Cachero's action
+Aug 03, 2025 12:34:21 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 463.22
+Baitama HP: 8522.46
+-------------------------------------------------
+Aug 03, 2025 12:34:21 PM service.BattleManager characterCombatLoop
+INFO: Turn 104 - Baitama's action
+Aug 03, 2025 12:34:21 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8522.46
+Cachero HP: 418.58
+-------------------------------------------------
+Aug 03, 2025 12:34:23 PM service.BattleManager characterCombatLoop
+INFO: Turn 105 - Cachero's action
+Aug 03, 2025 12:34:23 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 430.39
+Baitama HP: 8469.30
+-------------------------------------------------
+Aug 03, 2025 12:34:23 PM service.BattleManager characterCombatLoop
+INFO: Turn 105 - Baitama's action
+Aug 03, 2025 12:34:23 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8483.98
+Cachero HP: 406.04
+-------------------------------------------------
+Aug 03, 2025 12:34:25 PM service.BattleManager characterCombatLoop
+INFO: Turn 106 - Cachero's action
+Aug 03, 2025 12:34:25 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 406.04
+Baitama HP: 8440.76
+-------------------------------------------------
+Aug 03, 2025 12:34:25 PM service.BattleManager characterCombatLoop
+INFO: Turn 106 - Baitama's action
+Aug 03, 2025 12:34:25 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8440.76
+Cachero HP: 370.50
+-------------------------------------------------
+Aug 03, 2025 12:34:27 PM service.BattleManager characterCombatLoop
+INFO: Turn 107 - Cachero's action
+Aug 03, 2025 12:34:27 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 370.50
+Baitama HP: 8389.23
+-------------------------------------------------
+Aug 03, 2025 12:34:27 PM service.BattleManager characterCombatLoop
+INFO: Turn 107 - Baitama's action
+Aug 03, 2025 12:34:27 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8389.23
+Cachero HP: 345.50
+-------------------------------------------------
+Aug 03, 2025 12:34:29 PM service.BattleManager characterCombatLoop
+INFO: Turn 108 - Cachero's action
+Aug 03, 2025 12:34:29 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 345.50
+Baitama HP: 8343.17
+-------------------------------------------------
+Aug 03, 2025 12:34:29 PM service.BattleManager characterCombatLoop
+INFO: Turn 108 - Baitama's action
+Aug 03, 2025 12:34:29 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8343.17
+Cachero HP: 300.91
+-------------------------------------------------
+Aug 03, 2025 12:34:31 PM service.BattleManager characterCombatLoop
+INFO: Turn 109 - Cachero's action
+Aug 03, 2025 12:34:31 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 300.91
+Baitama HP: 8302.93
+-------------------------------------------------
+Aug 03, 2025 12:34:31 PM service.BattleManager characterCombatLoop
+INFO: Turn 109 - Baitama's action
+Aug 03, 2025 12:34:31 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8302.93
+Cachero HP: 278.40
+-------------------------------------------------
+Aug 03, 2025 12:34:33 PM service.BattleManager characterCombatLoop
+INFO: Turn 110 - Cachero's action
+Aug 03, 2025 12:34:33 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 291.44
+Baitama HP: 8243.99
+-------------------------------------------------
+Aug 03, 2025 12:34:33 PM service.BattleManager characterCombatLoop
+INFO: Turn 110 - Baitama's action
+Aug 03, 2025 12:34:33 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8258.22
+Cachero HP: 255.34
+-------------------------------------------------
+Aug 03, 2025 12:34:35 PM service.BattleManager characterCombatLoop
+INFO: Turn 111 - Cachero's action
+Aug 03, 2025 12:34:35 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 255.34
+Baitama HP: 8201.56
+-------------------------------------------------
+Aug 03, 2025 12:34:35 PM service.BattleManager characterCombatLoop
+INFO: Turn 111 - Baitama's action
+Aug 03, 2025 12:34:35 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8201.56
+Cachero HP: 235.31
+-------------------------------------------------
+Aug 03, 2025 12:34:37 PM service.BattleManager characterCombatLoop
+INFO: Turn 112 - Cachero's action
+Aug 03, 2025 12:34:37 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 235.31
+Baitama HP: 8144.86
+-------------------------------------------------
+Aug 03, 2025 12:34:37 PM service.BattleManager characterCombatLoop
+INFO: Turn 112 - Baitama's action
+Aug 03, 2025 12:34:37 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8144.86
+Cachero HP: 193.17
+-------------------------------------------------
+Aug 03, 2025 12:34:39 PM service.BattleManager characterCombatLoop
+INFO: Turn 113 - Cachero's action
+Aug 03, 2025 12:34:39 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 193.17
+Baitama HP: 8090.20
+-------------------------------------------------
+Aug 03, 2025 12:34:39 PM service.BattleManager characterCombatLoop
+INFO: Turn 113 - Baitama's action
+Aug 03, 2025 12:34:39 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8090.20
+Cachero HP: 170.43
+-------------------------------------------------
+Aug 03, 2025 12:34:41 PM service.BattleManager characterCombatLoop
+INFO: Turn 114 - Cachero's action
+Aug 03, 2025 12:34:41 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 170.43
+Baitama HP: 8035.74
+-------------------------------------------------
+Aug 03, 2025 12:34:41 PM service.BattleManager characterCombatLoop
+INFO: Turn 114 - Baitama's action
+Aug 03, 2025 12:34:41 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8035.74
+Cachero HP: 131.22
+-------------------------------------------------
+Aug 03, 2025 12:34:43 PM service.BattleManager characterCombatLoop
+INFO: Turn 115 - Cachero's action
+Aug 03, 2025 12:34:43 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 141.72
+Baitama HP: 7990.58
+-------------------------------------------------
+Aug 03, 2025 12:34:43 PM service.BattleManager characterCombatLoop
+INFO: Turn 115 - Baitama's action
+Aug 03, 2025 12:34:43 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 8004.98
+Cachero HP: 118.06
+-------------------------------------------------
+Aug 03, 2025 12:34:45 PM service.BattleManager characterCombatLoop
+INFO: Turn 116 - Cachero's action
+Aug 03, 2025 12:34:45 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 118.06
+Baitama HP: 7963.96
+-------------------------------------------------
+Aug 03, 2025 12:34:45 PM service.BattleManager characterCombatLoop
+INFO: Turn 116 - Baitama's action
+Aug 03, 2025 12:34:45 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 7963.96
+Cachero HP: 80.40
+-------------------------------------------------
+Aug 03, 2025 12:34:47 PM service.BattleManager characterCombatLoop
+INFO: Turn 117 - Cachero's action
+Aug 03, 2025 12:34:47 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 80.40
+Baitama HP: 7922.57
+-------------------------------------------------
+Aug 03, 2025 12:34:47 PM service.BattleManager characterCombatLoop
+INFO: Turn 117 - Baitama's action
+Aug 03, 2025 12:34:47 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 7922.57
+Cachero HP: 55.81
+-------------------------------------------------
+Aug 03, 2025 12:34:49 PM service.BattleManager characterCombatLoop
+INFO: Turn 118 - Cachero's action
+Aug 03, 2025 12:34:49 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 55.81
+Baitama HP: 7878.34
+-------------------------------------------------
+Aug 03, 2025 12:34:49 PM service.BattleManager characterCombatLoop
+INFO: Turn 118 - Baitama's action
+Aug 03, 2025 12:34:49 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 7878.34
+Cachero HP: 13.41
+-------------------------------------------------
+Aug 03, 2025 12:34:51 PM service.BattleManager characterCombatLoop
+INFO: Turn 119 - Cachero's action
+Aug 03, 2025 12:34:51 PM service.BattleManager characterCombatLoop
+INFO: Cachero HP: 13.41
+Baitama HP: 7832.16
+-------------------------------------------------
+Aug 03, 2025 12:34:51 PM service.BattleManager characterCombatLoop
+INFO: Turn 119 - Baitama's action
+Aug 03, 2025 12:34:51 PM service.BattleManager characterCombatLoop
+INFO: Baitama HP: 7832.16
+Cachero HP: 0.00
+-------------------------------------------------
+Aug 03, 2025 12:34:53 PM service.BattleManager startBattle
+INFO: Baitama wins!

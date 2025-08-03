@@ -1,0 +1,9 @@
+model\Sorcerer.class
+controller\UserInterface.class
+controller\TibiaAccountManager.class
+controller\TibiaCharacterManager.class
+model\Knight.class
+model\TibiaCharacter.class
+service\dataBase.class
+main\Main.class
+service\BattleManager.class
